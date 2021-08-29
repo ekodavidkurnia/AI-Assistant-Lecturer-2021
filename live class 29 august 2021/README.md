@@ -59,7 +59,7 @@ Read the [scikit learn](https://scikit-learn.org/stable/) and [tensorflow](https
 
 ## Live Class Video
 
-You can access the video from [this link](https://youtu.be/qAcFMD0aeC8)
+You can access the video from [this link](https://youtu.be/i1Vo-FAnExY)
 
 ## Creators
 
