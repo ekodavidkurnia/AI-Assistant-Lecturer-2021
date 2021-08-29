@@ -59,7 +59,7 @@ Read the [scikit learn](https://scikit-learn.org/stable/) and [tensorflow](https
 
 ## Live Class Video
 
-You can access the video from [this link](https://youtu.be/i1Vo-FAnExY)
+You can access the video from [this link](https://youtu.be/i1Vo-FAnExY), but im soo sorry for the quality, I dont know why the option only provide 360p wuwuu... im so sad
 
 ## Creators
 
