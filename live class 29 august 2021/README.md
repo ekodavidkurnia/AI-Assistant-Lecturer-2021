@@ -32,7 +32,7 @@
 
 ## Free Datasets
 
-[This link](https://github.com/ekodavidkurnia/AI-Assistant-Lecturer-2021\live-class-29-august-2021\Free-Datasets-for-Machine-Learning.ipynb) will refer to some link free datasets that you can use for your projects, but you can explore from other site 
+[This link](https://github.com/ekodavidkurnia/AI-Assistant-Lecturer-2021/blob/master/live%20class%2029%20august%202021/Free%20Datasets%20for%20Machine%20Learning.ipynb) will refer to some link free datasets that you can use for your projects, but you can explore from other site 
 
 
 ## Quick Start
