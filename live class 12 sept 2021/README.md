@@ -22,7 +22,6 @@
   <ol>
     <li><a href="#eda,-regression,-classification">EDA, Regression, Classification</a></li>
     <li><a href="#quick-start">Quick Start</a></li>
-    <li><a href="#class-note">Class Note</a></li>
     <li><a href="#live-class-video">Live Class Video</a></li>
     <li><a href="#creators">Creators</a></li>
     <li><a href="#copyright-and-license">Copyright and License</a></li>
@@ -49,18 +48,6 @@ Several quick start options are available:
 - Clone the repo: `git clone https://github.com/ekodavidkurnia/AI-Assistant-Lecturer-2021.git`
 
 Read the [scikit learn](https://scikit-learn.org/stable/) and [tensorflow](https://www.tensorflow.org/resources/learn-ml) for the basic understanding.
-
-
-## Class Note
-
-<p align="center" >
-  <img src="ensemble and hyperparameter.png" alt="pertemuan_1" width="70%" height="70%">
-</p>
-
-<br>
-<p align="center" >
-  <img src="All ANN in one board.png" alt="ML-for-all" width="70%" height="70%">
-</p>
 
 
 ## Live Class Video
