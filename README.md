@@ -41,25 +41,35 @@ Several quick start options are available:
 
 Read the [scikit learn](https://scikit-learn.org/stable/) and [tensorflow](https://www.tensorflow.org/resources/learn-ml) for the basic understanding.
 
+The live class video recording will be embedded in each section for more understanding. I hope you will learn something from this repo and be useful for your future projects. 
+
 ## Introduction to AI
 
-AI is an umbrella discipline that covers everything related to making machines smarter. Machine Learning (ML) is commonly used along with AI but it is a subset of AI. ML refers to an AI system that can self-learn based on the algorithm. Systems that get smarter and smarter over time without human intervention is ML. Deep Learning (DL) is a machine learning (ML) applied to large data sets. Most AI work involves ML because intelligent behaviour requires considerable knowledge. In this section we will discuss about the basic difference of AI vs ML vs DL and [roadmap of AI](https://github.com/ekodavidkurnia/AI-Assistant-Lecturer-2021/blob/master/live%20class%2022%20august%202021/pertemuan%2022%20agustus%202021.png) in 2021
+AI is an umbrella discipline that covers everything related to making machines smarter. Machine Learning (ML) is commonly used along with AI but it is a subset of AI. ML refers to an AI system that can self-learn based on the algorithm. Systems that get smarter and smarter over time without human intervention is ML. Deep Learning (DL) is a machine learning (ML) applied to large data sets. Most AI work involves ML because intelligent behaviour requires considerable knowledge. In [this section](https://github.com/ekodavidkurnia/AI-Assistant-Lecturer-2021/tree/master/live%20class%2022%20august%202021) we will discuss about the basic difference of AI vs ML vs DL and [roadmap of AI](https://github.com/ekodavidkurnia/AI-Assistant-Lecturer-2021/blob/master/live%20class%2022%20august%202021/pertemuan%2022%20agustus%202021.png) in 2021
 
 
 <p align="center" >
   <img src= https://github.com/ekodavidkurnia/AI-Assistant-Lecturer-2021/blob/master/live%20class%2022%20august%202021/ML_DL%20for%20literally%20anything.PNG alt="ML for literally anything" width="70%" height="70%">
 </p>
 
+
+## Machine Learning Pipeline
+
+A machine learning pipeline is a way to codify and automate the workflow it takes to produce a machine learning model. [This section](https://github.com/ekodavidkurnia/AI-Assistant-Lecturer-2021/tree/master/live%20class%2029%20august%202021) will explain about machine learning pipelines that consist of multiple sequential steps every machine learning engineer will do from data extraction and preprocessing to model training and deployment.
+
+
 ## Machine Learning with Scikitlearn
 
-This section will bring us to learn what is [Scikit-learn (Sklearn)](https://scikit-learn.org/stable/) and solve real world case with the most useful and robust library for machine learning in Python. It provides a selection of efficient tools for machine learning and statistical modeling including classification, regression, clustering and dimensionality reduction via a consistence interface in Python.
+[This section](https://github.com/ekodavidkurnia/AI-Assistant-Lecturer-2021/tree/master/live%20class%2012%20sept%202021) will bring us to learn what is [Scikit-learn (Sklearn)](https://scikit-learn.org/stable/) and solve real world case with the most useful and robust library for machine learning in Python. It provides a selection of efficient tools for machine learning and statistical modeling including classification, regression, clustering and dimensionality reduction via a consistence interface in Python.
 
 
 ## Introduction to Deep Learning
 
-In this section we will learn the foundational concept and indepth intuition of neural networks and deep learning. How neural networks learn trought the data with forward and backward propagation, flow of data while neural networks learn patterns.
+In [this section](https://github.com/ekodavidkurnia/AI-Assistant-Lecturer-2021/tree/master/live%20class%2005%20sept%202021) we will learn the foundational concept and indepth intuition of neural networks and deep learning. How neural networks learn trought the data with forward and backward propagation, flow of data while neural networks learn patterns.
 
 ## Tensorflow
+
+Created by the Google Brain team, [TensorFlow](https://www.tensorflow.org/) is an open source library for numerical computation and large-scale machine learning. TensorFlow bundles together a slew of machine learning and deep learning (aka neural networking) models and algorithms and makes them useful by way of a common metaphor. Rather than building machine learning and deep learning models from scratch, it's more likely you'll use a library such as TensorFlow. This is because it contains many of the most common machine learning functions you'll want to use.
 
 <li><a href=https://github.com/ekodavidkurnia/AI-Assistant-Lecturer-2021/blob/master/tensorflow%20regression/01_neural_network_with_tensorflow.ipynb>Regression with Tensorflow</a></li>
 <li><a href=https://github.com/ekodavidkurnia/AI-Assistant-Lecturer-2021/blob/master/tensorflow%20classification/02_neural_network_classification_with_tensorflow.ipynb>Classification with Tensorflow</a></li>
