@@ -1,4 +1,10 @@
 <br />
+<p align="center">
+  <a href="#">
+    <img src="https://www.freepik.com/premium-photo/future-artificial-intelligence-robot-cyborg_8900638.htm#page=1&query=artificial%20intelligence&position=11" alt="Asistensi AI" width="70%" height="70%">
+  </a>
+</p>
+
 
 <h3 align="center">Asistensi AI 2021</h1>
 
