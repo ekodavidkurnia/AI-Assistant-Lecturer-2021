@@ -23,6 +23,7 @@
   <ol>
     <li><a href="#quick-start">Quick Start</a></li>
     <li><a href="#introduction-to-ai">Introduction to AI</a></li>
+    <li><a href="#machine-learning-pipeline">Machine Learning Pipeline</a></li>
     <li><a href="#machine-learning-with-scikitlearn">Machine Learning with Scikitlearn</a></li>
     <li><a href="#introduction-to-deep-learning">Introduction to Deep Learning</a></li>
     <li><a href="#tensorflow">Tensorflow</a></li>
