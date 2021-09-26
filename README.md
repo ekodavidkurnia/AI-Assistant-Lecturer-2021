@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="#">
-    <img src="https://image.freepik.com/free-photo/future-artificial-intelligence-robot-cyborg_31965-6980.jpg" alt="Asistensi AI" width="70%" height="70%">
+    <img src="https://image.freepik.com/free-photo/designer-using-transparent-digital-tablet-screen-futuristic-technology_53876-105379.jpg" alt="Asistensi AI" width="70%" height="70%">
   </a>
 </p>
 
